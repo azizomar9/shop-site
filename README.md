@@ -1,1 +1,1 @@
-# shop-site
+This is an E-Commerce Site created using JavaScript and React. It can be accessed through the following link. https://merry-croquembouche-6097ae.netlify.app
